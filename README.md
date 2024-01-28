@@ -1,4 +1,4 @@
 # Gaussian
 ```
-ssh atreyee@10.10.3.22
+ssh id@10.10.3.22
 ```
